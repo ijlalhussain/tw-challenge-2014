@@ -1,10 +1,10 @@
 How are you going to measure the success of your MVP?
 
-1. Collect Visits to the homepage 
+1. Collect Visits to the homepage
 
 2. People checking the conversion rates
 
-3. Details added
+3. Details added about them selves and receiver
 
 4. Payment commitment
 
@@ -18,7 +18,8 @@ How are you going to measure the success of your MVP?
 
 9. Repeated receivers
 
-10. Means of sharing link to the receiver
-    (email,phone etc.)
+10. Means of sharing link to the receiver (email,phone etc.)
 
-11. User sharing details
+11. User sharing details/ recommend to others (NPS: Net promoter score)
+
+12. Modes of payment
