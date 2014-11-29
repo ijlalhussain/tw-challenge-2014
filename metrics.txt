@@ -1,1 +1,24 @@
 How are you going to measure the success of your MVP?
+
+1. Collect Visits to the homepage 
+
+2. People checking the conversion rates
+
+3. Details added
+
+4. Payment commitment
+
+5. Receiver visits authentication
+
+6. Receiver details received
+
+7. Transfer confirmation
+
+8. Revisiting customer
+
+9. Repeated receivers
+
+10. Means of sharing link to the receiver
+    (email,phone etc.)
+
+11. User sharing details
